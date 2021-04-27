@@ -66,4 +66,5 @@ main = do
   print(quickSort [12, 2, 4, 5, 18])
 
 
-  
+  52-90 : PART 1  
+  124-144 : PART 2
